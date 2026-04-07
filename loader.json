@@ -1,0 +1,20 @@
+{
+  "pubgm": {
+    "gameName": "pubgm",
+    "name": "Pubg Mobile Loader",
+    "version": 1,
+    "url": "https://رابط_تحميل_ملفك"
+  },
+  "bgmi": {
+    "gameName": "bgmi",
+    "name": "BGMI Loader",
+    "version": 1,
+    "url": "https://رابط_تحميل_ملفك"
+  },
+  "farlight": {
+    "gameName": "farlight",
+    "name": "Farlight Loader",
+    "version": 1,
+    "url": "https://رابط_تحميل_ملفك"
+  }
+}
