@@ -1,16 +1,16 @@
 {
-    "gamesList": [
+  "gamesList": [
     {
-      "title": "النسخه العالميه",
+      "title": "PUBG",
       "package": "com.tencent.ig",
-      "version": "3.9.0",
-      "status": "امن"
+      "version": "3.2",
+      "status": "ONLINE"
     },
     {
-      "title": "النسخه الكوريه",
-      "package": "com.pubg.krmobile",
-      "version": "3.9.0",
-      "status": "امن"
-    },
+      "title": "CODM",
+      "package": "com.activision.callofduty.shooter",
+      "version": "1.0",
+      "status": "ONLINE"
+    }
   ]
 }
