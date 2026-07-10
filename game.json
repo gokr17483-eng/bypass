@@ -3,13 +3,13 @@
     {
       "title": "PUBG",
       "package": "com.tencent.ig",
-      "version": "4.3.0",
+      "version": "4.5.0",
       "status": "ONLINE"
     },
     {
       "title": "CODM",
       "package": "com.activision.callofduty.shooter",
-      "version": "4.3",
+      "version": "4.5.0",
       "status": "ONLINE"
     }
   ]
